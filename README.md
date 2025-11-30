@@ -255,8 +255,8 @@ Each experiment is designed to build practical understanding through implementat
 
 <td width="33%" valign="top">
   <h3>Experiment 11: Image Segmentation with UNet</h3>
-  <a href="https://github.com/AbhinavDwivediii/DL_LAB_500121151_ABHINAV_DWIVEDI/blob/main/DL_Exp11.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
-  <a href="https://www.kaggle.com/api/v1/datasets/download/pushkar007/vaihingendataann?dataset_version_number=1"><b>📁 DATASET</b></a>
+  <a href="https://github.com/Kritikargv17/DL_LAB_500120185_KRITIKA_RAGHAV/blob/main/Exp11.ipynb"><b>🔗 VIEW EXPERIMENT</b></a><br>
+  <a href="https://drive.google.com/drive/folders/16jLfsotpTr-BEAbsoSSkEFyUMA_8nJp4?usp=drive_link"><b>📁 DATASET</b></a>
 </td>
 
 <td width="33%" valign="top">
